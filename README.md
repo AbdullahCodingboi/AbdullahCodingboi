@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="assets/profile-banner.jpg" alt="Abdullah Khalid — Frontend Developer · UI Specialist · Full-Stack Development" width="100%" />
+<img src="./profile-banner.jpg" alt="Abdullah Khalid — Frontend Developer · UI Specialist · Full-Stack Development" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B1423?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdullahcodingboi.github.io/Abdullah-Khalid/)
 [![Blog](https://img.shields.io/badge/BLOG-0B1423?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://abdullah-khalid.vercel.app/)
